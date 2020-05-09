@@ -17,7 +17,7 @@ shm = 'https://shikimori.one/forum/news'
 
 # BOT TOKEN AND ENABLING
 
-tk = '971248982:AAE27YKh7BAIeRIikyE1qkIVHSTBAI23Oug'
+tk = 'PUT YOUR BOT TOKEN HERE'
 bot = telebot.AsyncTeleBot(tk)
 
 
